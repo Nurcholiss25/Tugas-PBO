@@ -1,0 +1,39 @@
+h1{
+ margin-left: 50px;
+margin-top: 50px;
+}
+.h2{
+  margin-left: 20px;
+ margin-top: 10px;
+}
+ .form{
+ width: 500px;
+ height: 200px;
+ margin-top: 25px;
+   margin-left: 400px;
+ background-color: #fff6f0;
+ padding: 20px;
+  }
+ .nik{
+ margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 40px;
+ }
+.nama input{
+ width: 300px;
+  height: 25px;
+  }
+ .nama{
+ margin-left: 43px;
+ margin-bottom: 20px;
+  }
+ .nama input{
+ width: 300px;
+  height: 25px;
+   }
+ .tombol input{
+ width: 100px;
+  height: 25px;
+ margin-left: 110px;
+  background-color: aquamarine;
+                }
